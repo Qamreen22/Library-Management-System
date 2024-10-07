@@ -75,6 +75,7 @@ To run this project, you'll need:
    ![Dashboard](./Dashboard.png)
 
 4. **Edit Admin Details**:
+   
    ![Edit Admin](./editAdminPage.png)
 
 
